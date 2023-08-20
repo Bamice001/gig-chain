@@ -1,0 +1,17 @@
+
+
+For the Gig agreement contract 
+
+The smart contract needs.
+ address of the employer(not really cos it will be the employer that will deploy the contract);
+    address of the  jobSeeker;
+    address public gigsChainAddress(Provided by US);
+     agreedPayment;
+    agreedDays for the Job to be completed ;
+    agreementTimestamp;
+     termsFinalized;
+     
+ 
+
+While for the job agreement . Same applies only that the employer comes sto click the relase payment function
+evverty 30 days.
