@@ -1,0 +1,36 @@
+.dash_container {
+    width: 100%;
+    height: 620px;
+    display: flex;
+}
+
+.side_nav {
+    width: 20%;
+    background: #000;
+    box-shadow: 0px 0px 100px 0px rgba(221, 217, 222, 0.25);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.nav_top {
+    height: 533px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav_top a {
+    /* width: 200px; */
+    padding: 20px 35px 22px 38px
+}
+
+
+
+
+
+.dash_right {
+    width: 70%;
+    
+}
